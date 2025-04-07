@@ -1,0 +1,33 @@
+header
+{
+display: flex;
+justify-content: left;
+align-items: center;
+background-color: rgb(71, 158, 146);
+}
+
+
+header img 
+{
+width: 100px;
+height: 100px;
+margin: 30px;
+}
+
+
+nav
+{
+
+display: flex;
+justify-content: center;
+background-color: rgb(84, 125, 128);
+}
+
+nav a
+{
+text-decoration: none;
+font-size: 25px;
+color: aliceblue;
+}
+
+
