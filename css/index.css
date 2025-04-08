@@ -1,3 +1,12 @@
+
+body
+{
+background-color: #b2e2f2;
+}
+
+
+
+
 header
 {
 display: flex;
@@ -11,23 +20,167 @@ header img
 {
 width: 100px;
 height: 100px;
-margin: 30px;
+margin: 20px;
 }
 
 
 nav
 {
-
+list-style: none;
 display: flex;
 justify-content: center;
 background-color: rgb(84, 125, 128);
+margin: 0px;
+padding: 0px;
 }
 
 nav a
 {
+    transition: color 0.3s ease;
 text-decoration: none;
 font-size: 25px;
 color: aliceblue;
 }
+
+nav li
+{
+
+margin: 0px 20px;
+
+
+}
+
+
+nav a:hover
+{
+color: blue;
+
+}
+
+.yt h1
+{
+display: flex;
+align-items: center;
+color: aliceblue;
+
+}
+
+
+.p7 p
+{
+
+color: rgb(0, 0, 0);
+font-size: 29px;
+text-align: center;
+}
+
+.p7 strong
+{
+
+display: flex;
+justify-content: center;
+
+}
+
+.p7 h2
+{
+    text-align: center;
+}
+
+.carta1
+{
+margin: 20px;
+overflow: hidden;
+border-radius: 30px;
+box-shadow: 0px 5px 10px rgb(12, 84, 218);
+background-color: #84b6f4;
+
+}
+
+
+
+.carta2
+{
+margin: 20px;
+overflow: hidden;
+border-radius: 30px;
+box-shadow: 0px 5px 10px rgb(12, 84, 218);
+
+background-color: #84b6f4;
+}
+
+.carta3
+{
+margin: 20px;
+overflow: hidden;
+border-radius: 30px;
+box-shadow: 0px 5px 10px rgb(12, 84, 218);
+
+background-color: #84b6f4;
+}
+
+
+.carta4
+{
+margin: 20px;
+overflow: hidden;
+border-radius: 30px;
+box-shadow: 0px 5px 10px rgb(12, 84, 218);
+background-color: #84b6f4;
+
+}
+
+
+.carta5
+{
+margin: 20px;
+overflow: hidden;
+border-radius: 30px;
+box-shadow: 0px 5px 10px rgb(12, 84, 218);
+background-color: #84b6f4;
+
+}
+
+
+
+.carta6
+{
+margin: 20px;
+overflow: hidden;
+border-radius: 30px;
+box-shadow: 0px 5px 10px rgb(12, 84, 218);
+background-color: #84b6f4;
+
+}
+
+
+
+.carta7
+{
+margin: 20px;
+overflow: hidden;
+border-radius: 30px;
+box-shadow: 0px 5px 10px rgb(12, 84, 218);
+background-color: #84b6f4;
+
+}
+
+
+
+.carta8
+{
+margin: 20px;
+overflow: hidden;
+border-radius: 30px;
+box-shadow: 0px 5px 10px rgb(12, 84, 218);
+background-color: #84b6f4;
+
+}
+
+
+
+
+
+
 
 

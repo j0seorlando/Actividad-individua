@@ -1,0 +1,65 @@
+body
+{
+background-color: #b2e2f2;
+}
+
+
+
+
+header
+{
+display: flex;
+justify-content: left;
+align-items: center;
+background-color: rgb(71, 158, 146);
+}
+
+
+header img 
+{
+width: 100px;
+height: 100px;
+margin: 20px;
+}
+
+
+nav
+{
+list-style: none;
+display: flex;
+justify-content: center;
+background-color: rgb(84, 125, 128);
+margin: 0px;
+padding: 0px;
+}
+
+nav a
+{
+    transition: color 0.3s ease;
+text-decoration: none;
+font-size: 25px;
+color: aliceblue;
+}
+
+nav li
+{
+
+margin: 0px 20px;
+
+
+}
+
+
+nav a:hover
+{
+color: blue;
+
+}
+
+.yt h1
+{
+display: flex;
+align-items: center;
+color: aliceblue;
+
+}
